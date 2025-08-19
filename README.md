@@ -10,5 +10,4 @@
 ## ⚙️ Setup
 1. Clone repo:
    ```bash
-   git clone https://github.com/your-username/pdf_qa_chatbot.git
-   cd pdf_qa_chatbot
+
